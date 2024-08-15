@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "3a1391290f4c61c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6a3cdb63538025d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65952d2bf0460ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advance JS/this keyword in JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4637c93b69f52128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/React Pattern/React Design Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3050dd7e5065b9bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React Interview short note/React Optimization Techniques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f7879ade7f17383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interviews/Meesho/Round 1 (Problem Solving + JS based).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34f7cb0003cda415",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfd1ff248adc1113",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bba346e57147398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c126defd69fa3d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86bf30e4e23c3668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advance JS/Callback Hell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99b03a0498f0130c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Advance JS/\" ",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30ac60a067e4bb69",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5
+  },
+  "right": {
+    "id": "c814666e8abc88d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5bf07c78ddcc333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f82b116f236d9df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9b4c5dbf8fc2a81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fba37445aa94c8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8e09a6f78c6b2d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "99b03a0498f0130c",
+  "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "2024-08-16.md",
+    "Untitled.canvas",
+    "Core JS/call, apply and bind method in JavaScript.md",
+    "Core JS/`async` and `defer` Attributes in JavaScript.md",
+    "interviews/latest aug 2024/PW.md",
+    "interviews/latest aug 2024/Polyfill for `debounce`.md",
+    "interviews/latest aug 2024/useCallback.md",
+    "interviews/latest aug 2024/JavaScript Concepts.md",
+    "interviews/Untitled.md",
+    "interviews/latest aug 2024",
+    "interviews/machine coding/Traffic Light in React**.md",
+    "interviews/Interviewer provide ques.md",
+    "interviews/machine coding",
+    "DSA/JS.md",
+    "DSA/Question list.md",
+    "interviews/Zepto/mine.md",
+    "interviews/Meesho/Round 1 (Problem Solving + JS based).md",
+    "interviews/Meesho",
+    "interviews/vanila js",
+    "interviews/Zepto/Methods of Promises.md",
+    "Vanila js",
+    "interviews/Zepto/Designing the Autocomplete CDN.md",
+    "interviews/Zepto/Ques 1.md",
+    "interviews/Zepto/Code Example Explanation.md",
+    "interviews/Zepto/Bubbling and Capturing in Event Handling.md",
+    "NextJS/Understanding Hydration in Web Development.md",
+    "NextJS/SSR (Server-Side Rendering) and SSG (Static Site Generation) in Depth.md",
+    "React Interview short note/React Question.md",
+    "React Interview short note/React Optimization Techniques.md",
+    "Design Pattern/React Pattern/Render Props Pattern in React.md",
+    "Design Pattern/React Pattern/React Hooks Pattern.md",
+    "interviews/Zepto",
+    "basic js",
+    "interviews/interview/Untitled",
+    "interviews/interview",
+    "DSA/Ques/linkedlist"
+  ]
+}
